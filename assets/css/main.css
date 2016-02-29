@@ -278,6 +278,16 @@ a:after {
 	color: #95a5a6;
 }
 
+#screenshot {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.smallerDivs {
+    margin: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
 
 sm {
 	font-size: 12px;
