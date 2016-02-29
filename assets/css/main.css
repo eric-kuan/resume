@@ -289,6 +289,12 @@ a:after {
     vertical-align: middle;
 }
 
+.appIcon {
+	height: 100px;
+	width: 100px;
+	border-radius: 20px;
+}
+
 sm {
 	font-size: 12px;
 }
